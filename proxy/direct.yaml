@@ -1,0 +1,6 @@
+payload:
+  - PROCESS-NAME,MailMaster
+  - DOMAIN-SUFFIX,jason.localhost
+  - DOMAIN-SUFFIX,starscode.cn
+  - +.starscode.top
+  - +.stars365.synology.me
