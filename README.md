@@ -1,2 +1,3 @@
 # my-config
-for clash
+
+for config
