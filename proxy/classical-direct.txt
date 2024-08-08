@@ -5,3 +5,5 @@ payload:
   - DOMAIN-SUFFIX,starscode.cn
   - DOMAIN-SUFFIX,starscode.top
   - DOMAIN-SUFFIX,stars365.synology.me
+  - DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
+  - DOMAIN-SUFFIX,microsoftedge.microsoft.com
