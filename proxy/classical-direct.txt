@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,stars365.synology.me
   - DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
   - DOMAIN-SUFFIX,microsoftedge.microsoft.com
+  - DOMAIN-SUFFIX,purchase.mp.microsoft.com
