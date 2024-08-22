@@ -1,3 +1,3 @@
 # my-config
 
-for config
+project for config
