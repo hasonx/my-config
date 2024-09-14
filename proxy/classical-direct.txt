@@ -1,6 +1,7 @@
 payload:
   - PROCESS-NAME,MailMaster
   - PROCESS-NAME,EdgeUpdater
+  - DOMAIN-SUFFIX,lizhi.io
   - DOMAIN-SUFFIX,jason.localhost
   - DOMAIN-SUFFIX,starscode.cn
   - DOMAIN-SUFFIX,starscode.top
