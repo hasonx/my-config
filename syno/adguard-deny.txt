@@ -10,6 +10,7 @@
 192.168.0.2 adguard.starscode.top
 192.168.0.2 vault.starscode.top
 192.168.0.2 git.starscode.top
+192.168.0.2 traefik.starscode.top
 192.168.0.2 syno.starscode.top
 192.168.0.2 minio.starscode.top
 
