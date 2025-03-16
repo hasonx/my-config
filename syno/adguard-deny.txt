@@ -12,7 +12,6 @@
 192.168.0.2 git.starscode.top
 192.168.0.2 traefik.starscode.top
 192.168.0.2 syno.starscode.top
-192.168.0.2 minio.starscode.top
 
 # [starscode.cn]
 # 192.168.0.2 git.starscode.cn
