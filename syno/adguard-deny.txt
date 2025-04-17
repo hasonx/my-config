@@ -1,17 +1,10 @@
 # [starscode.top]
 192.168.0.2 aria2.starscode.top
-192.168.0.2 book.starscode.top
 192.168.0.2 openwrt.starscode.top
-192.168.0.2 jellyfin.starscode.top
 192.168.0.2 tinymm.starscode.top
 192.168.0.2 qb.starscode.top
 192.168.0.2 alist.starscode.top
-192.168.0.2 resilio.starscode.top
-192.168.0.2 adguard.starscode.top
-192.168.0.2 vault.starscode.top
-192.168.0.2 git.starscode.top
-192.168.0.2 traefik.starscode.top
-192.168.0.2 syno.starscode.top
+192.168.0.2 rss.starscode.top
 
 # [starscode.cn]
 # 192.168.0.2 git.starscode.cn
