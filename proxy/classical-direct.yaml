@@ -12,17 +12,17 @@ payload:
   - IP-CIDR6,fc00::/7,no-resolve
   - IP-CIDR6,fe80::/10,no-resolve
   - IP-CIDR6,fd00::/8,no-resolve
-  - PROCESS-NAME,MailMaster
-  - PROCESS-NAME,EdgeUpdater
+  # - PROCESS-NAME,MailMaster
+  # - PROCESS-NAME,EdgeUpdater
+  # - DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
+  # - DOMAIN-SUFFIX,microsoftedge.microsoft.com
+  # - DOMAIN-SUFFIX,purchase.mp.microsoft.com
   - DOMAIN-SUFFIX,lizhi.io
   - DOMAIN-SUFFIX,jason.localhost
   - DOMAIN-SUFFIX,starscode.cn
   - DOMAIN-SUFFIX,starscode.top
   - DOMAIN-SUFFIX,1024365.xyz
   - DOMAIN-SUFFIX,stars365.synology.me
-  - DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
-  - DOMAIN-SUFFIX,microsoftedge.microsoft.com
-  - DOMAIN-SUFFIX,purchase.mp.microsoft.com
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,checkip.synology.com
   - DOMAIN-SUFFIX,checkipv6.synology.com
