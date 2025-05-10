@@ -18,6 +18,3 @@ payload:
   - DOMAIN-SUFFIX,checkip.synology.com
   - DOMAIN-SUFFIX,checkipv6.synology.com
   - DOMAIN-SUFFIX,checkport.synology.com
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,outlook.com
